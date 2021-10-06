@@ -5,5 +5,5 @@ Hi, I'm Enise
 
 https://www.hacettepe.edu.tr/
 
-file:///C:/Users/Samsung/OneDrive/Masa%C3%BCst%C3%BC/f3a09b3f785bdd84f801a9194df2b66b.png/blob/master/public_html/img/nokia.png?raw=true
+(http://file:///C:/Users/Samsung/OneDrive/Masa%C3%BCst%C3%BC/f3a09b3f785bdd84f801a9194df2b66b.png
 
